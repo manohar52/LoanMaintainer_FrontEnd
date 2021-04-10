@@ -1,0 +1,16 @@
+.container{
+    margin-top: 10rem;
+    width: 30rem !important;
+    padding:3rem;
+}
+
+.loginbutton{
+    margin-left: 12.5rem;
+    margin-top: 1rem;
+}
+
+.registerLink{
+    text-align: center;
+    margin-left: 10rem;
+    margin-top: 1rem;
+}

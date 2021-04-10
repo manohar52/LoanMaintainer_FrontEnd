@@ -1,0 +1,17 @@
+.links:hover{
+    text-decoration: none !important;
+    color:red;
+}
+
+.linkwrap:hover{
+    background-color: white;
+    padding:0.5rem;
+}
+
+.linkwrap{
+    padding: 0.5rem;
+}
+
+.is-active{
+    color: white;
+}
